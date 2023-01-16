@@ -1,0 +1,1 @@
+java -jar VPCIAnnouncementsProgram.jar
